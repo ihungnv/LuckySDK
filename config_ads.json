@@ -1,0 +1,59 @@
+{
+  "AppConfig": {
+    "APP_NAME": "BASIC SDK Pro",
+    "PKG_NAME": "com.facebook.katarna",
+    "VER_CODE": 1,
+    "VER_NAME": "1.2.1",
+    "COMPULSORY": 0,
+    "ADS_TYPE": 1,
+    "ADS_ENABLE": 1,
+    "FIRST_SHOW": 5,
+    "NEXT_SHOW": 10,
+    "ABOUT1": "- App Pro",
+    "ABOUT2": "- No Ads",
+    "ABOUT3": "- Free Function"
+  },
+  "NotiInfo": {
+    "STATUS": 1,
+    "HOUR": "8",
+    "MINUTE": "0",
+    "TITLE": "❤Have a nice day!!",
+    "CONTENT": "Let’s take selfies with beautiful features, filters, and stickers!!!"
+  },
+  "Admob": {
+    "APP_ID": "ca-app-pub-3940256099942544~3347511713",
+    "AD_UNIT": {
+      "App1_Full_Pos1": "ca-app-pub-3940256099942544/1033173712",
+      "App1_Full_Pos2": "ca-app-pub-3940256099942544/1033173712",
+      "App1_Full_Pos3": "ca-app-pub-3940256099942544/1033173712",
+      "App1_Banner_Pos1": "ca-app-pub-3940256099942544/6300978111",
+      "App1_Banner_Pos2": "ca-app-pub-3940256099942544/6300978111",
+      "App1_Banner_Pos3": "ca-app-pub-3940256099942544/6300978111",
+      "App1_Native_Pos1": "ca-app-pub-3940256099942544/2247696110",
+      "App1_Native_Pos2": "ca-app-pub-3940256099942544/2247696110",
+      "App1_Native_Pos3": "ca-app-pub-3940256099942544/2247696110"
+    }
+  },
+  "AppMoreInfo": [
+    {
+      "APPMORE_NAME": "Computer Launcher Pro - No Ads",
+      "PKG_NAME": "com.ioslauncher.launcherios",
+      "URL_ICON": "https://bit.ly/3h1cP9M",
+      "URL_COVER": "https://bit.ly/3ao5Kxg",
+      "SHORT_DES": "Windows 10 Launcher give your phone screen a new look like Computer Launcher",
+      "DOWNLOAD": "100K+",
+      "RATING": "4.6",
+      "SIZE": "8MB"
+    },
+    {
+      "APPMORE_NAME": "S20 Camera Pro - No Ads",
+      "PKG_NAME": "com.galaxyx.s20camera",
+      "URL_ICON": "https://bit.ly/3fFjip2",
+      "URL_COVER": "https://bit.ly/3gQvC7i",
+      "SHORT_DES": "S20 Camera - Camera for Galaxy S20 & Note 20 with amazing features & cool filter",
+      "DOWNLOAD": "100K+",
+      "RATING": "4.8",
+      "SIZE": "29MB"
+    }
+  ]
+}
